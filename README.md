@@ -4,5 +4,6 @@ Libraries used:
 <br>
 https://www.npmjs.com/package/binance-api-node
 npm install binance-api-node
+<br>
 https://www.npmjs.com/package/csv-writer
 npm install csv-writer
