@@ -8,3 +8,5 @@ npm install binance-api-node
 <br>
 https://www.npmjs.com/package/csv-writer
 npm install csv-writer
+<br>
+Note that binance may not be supported in all countries. If not supported I suggest using a VPN
