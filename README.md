@@ -1,2 +1,5 @@
 # Crypto-Data-Downloader
 Crypto historical data downloader via binance-api-node. Can store data as JSON or CSV
+Libraries used:
+https://www.npmjs.com/package/binance-api-node
+npm install binance-api-node
