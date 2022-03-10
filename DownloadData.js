@@ -3,7 +3,7 @@ const Binance = require('binance-api-node').default
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const client = Binance()
 
-const filePath = './backtester/BTCUSDT'      // Path file where we want to save the data
+const filePath = './backtester/BTCUSDT'           // Path file where we want to save the data
 const saveAs = 'BOTH';                            // JSON, CSV, BOTH
 const symbols = 'BTCUSDT';                        // Symbols
 const timeframe = '1h';                           // 1m, 3m, 5m, 15m, 30m, 1h, 2h, 4h, 6h, 8h, 12h, 1d, 3d, 1w, 1M
